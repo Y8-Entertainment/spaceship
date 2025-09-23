@@ -1,0 +1,1062 @@
+fileFormatVersion: 2
+guid: e3d2ca703e4fa794db253e4936551ce4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5130036656894862877
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_0
+  - first:
+      213: 3265315594792475889
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_1
+  - first:
+      213: -3099447575503853420
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_2
+  - first:
+      213: 5878668083667609033
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_3
+  - first:
+      213: -6062245267747730395
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_4
+  - first:
+      213: -7139544202538677496
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_5
+  - first:
+      213: -255240130122587694
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_6
+  - first:
+      213: -1128496583033852142
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_7
+  - first:
+      213: 5121194744911433447
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_8
+  - first:
+      213: -5534682955119867134
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_9
+  - first:
+      213: 2988371743988919749
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_10
+  - first:
+      213: -3079373929398902855
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_11
+  - first:
+      213: 6327399884244172720
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_12
+  - first:
+      213: -7084450273257012702
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_13
+  - first:
+      213: -6671337697019550081
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_14
+  - first:
+      213: -4275457520394815827
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_15
+  - first:
+      213: -5050355483089402890
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_16
+  - first:
+      213: -3473307711625569173
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_17
+  - first:
+      213: -7058332539040230415
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_18
+  - first:
+      213: -8408135051931285385
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_19
+  - first:
+      213: -3050489697728620094
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_20
+  - first:
+      213: 8467628892379433172
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_21
+  - first:
+      213: 4372199362126586403
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_22
+  - first:
+      213: -3355734733776489513
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_23
+  - first:
+      213: 7459511710253901914
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_24
+  - first:
+      213: 1884478150252655062
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_25
+  - first:
+      213: -183978128378357404
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_26
+  - first:
+      213: 4599852847564006248
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_27
+  - first:
+      213: 7341391708162222653
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_28
+  - first:
+      213: 1951263640866145249
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_29
+  - first:
+      213: 467503855101692818
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_30
+  - first:
+      213: 322532112025242563
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_31
+  - first:
+      213: -7291027024469107824
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_32
+  - first:
+      213: -3162826467610862876
+    second: pngtree-line-art-computer-mouse-icon-picture-image_7822354_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e99c0537d27ec8b0800000000000000
+      internalID: -5130036656894862877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 533
+        height: 1113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc162bab3bb05d20800000000000000
+      internalID: 3265315594792475889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498a5260adc8cf4d0800000000000000
+      internalID: -3099447575503853420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_3
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c52f6fb979359150800000000000000
+      internalID: 5878668083667609033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_4
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c8a925c049edba0800000000000000
+      internalID: -6062245267747730395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_5
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1008
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b8b7def5e3bec90800000000000000
+      internalID: -7139544202538677496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_6
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d16e973474357cf0800000000000000
+      internalID: -255240130122587694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_7
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 947
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f66063656c650f0800000000000000
+      internalID: -1128496583033852142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_8
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee0b0cbc73221740800000000000000
+      internalID: 5121194744911433447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 862
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bcba32d2bd033b0800000000000000
+      internalID: -5534682955119867134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 862
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2641a444d87920800000000000000
+      internalID: 2988371743988919749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_11
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 614
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf5497f9bdd345d0800000000000000
+      internalID: -3079373929398902855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 786
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfb834bba07fc750800000000000000
+      internalID: 6327399884244172720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 811
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222c891f20afead90800000000000000
+      internalID: -7084450273257012702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 728
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f762a78f5b5aa63a0800000000000000
+      internalID: -6671337697019550081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 766
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6389c99068aa4c0800000000000000
+      internalID: -4275457520394815827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 668
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38201327889e9b0800000000000000
+      internalID: -5050355483089402890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 699
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cdee4e9055ccfc0800000000000000
+      internalID: -3473307711625569173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f31defc3f3cb0e90800000000000000
+      internalID: -7058332539040230415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_19
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 464
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778002ee7bd405b80800000000000000
+      internalID: -8408135051931285385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_20
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 489
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c995e738cb7aa5d0800000000000000
+      internalID: -3050489697728620094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_21
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 407
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d84c1c3d9f038570800000000000000
+      internalID: 8467628892379433172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_22
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 444
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322aebaa72c2dac30800000000000000
+      internalID: 4372199362126586403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 346
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3ffc00a090e61d0800000000000000
+      internalID: -3355734733776489513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 377
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58ec87d062858760800000000000000
+      internalID: 7459511710253901914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 261
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d17bcca4e2072a10800000000000000
+      internalID: 1884478150252655062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 261
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4691193fdd0627df0800000000000000
+      internalID: -183978128378357404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_27
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 13
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8632f163bc5f5df30800000000000000
+      internalID: 4599852847564006248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae10abcdcd1e560800000000000000
+      internalID: 7341391708162222653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e346f071f7441b10800000000000000
+      internalID: 1951263640866145249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 127
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b467e7748ec7600800000000000000
+      internalID: 467503855101692818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbcbed3f3dd97400800000000000000
+      internalID: 322532112025242563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bdebefc8111da90800000000000000
+      internalID: -7291027024469107824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-line-art-computer-mouse-icon-picture-image_7822354_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead9d7c5126b14d0800000000000000
+      internalID: -3162826467610862876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_0: -5130036656894862877
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_1: 3265315594792475889
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_10: 2988371743988919749
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_11: -3079373929398902855
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_12: 6327399884244172720
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_13: -7084450273257012702
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_14: -6671337697019550081
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_15: -4275457520394815827
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_16: -5050355483089402890
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_17: -3473307711625569173
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_18: -7058332539040230415
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_19: -8408135051931285385
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_2: -3099447575503853420
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_20: -3050489697728620094
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_21: 8467628892379433172
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_22: 4372199362126586403
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_23: -3355734733776489513
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_24: 7459511710253901914
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_25: 1884478150252655062
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_26: -183978128378357404
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_27: 4599852847564006248
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_28: 7341391708162222653
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_29: 1951263640866145249
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_3: 5878668083667609033
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_30: 467503855101692818
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_31: 322532112025242563
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_32: -7291027024469107824
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_33: -3162826467610862876
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_4: -6062245267747730395
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_5: -7139544202538677496
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_6: -255240130122587694
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_7: -1128496583033852142
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_8: 5121194744911433447
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_9: -5534682955119867134
+    nameFileIdTable:
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_0: -5130036656894862877
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_1: 3265315594792475889
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_10: 2988371743988919749
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_11: -3079373929398902855
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_12: 6327399884244172720
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_13: -7084450273257012702
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_14: -6671337697019550081
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_15: -4275457520394815827
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_16: -5050355483089402890
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_17: -3473307711625569173
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_18: -7058332539040230415
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_19: -8408135051931285385
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_2: -3099447575503853420
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_20: -3050489697728620094
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_21: 8467628892379433172
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_22: 4372199362126586403
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_23: -3355734733776489513
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_24: 7459511710253901914
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_25: 1884478150252655062
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_26: -183978128378357404
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_27: 4599852847564006248
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_28: 7341391708162222653
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_29: 1951263640866145249
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_3: 5878668083667609033
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_30: 467503855101692818
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_31: 322532112025242563
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_32: -7291027024469107824
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_33: -3162826467610862876
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_4: -6062245267747730395
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_5: -7139544202538677496
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_6: -255240130122587694
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_7: -1128496583033852142
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_8: 5121194744911433447
+      pngtree-line-art-computer-mouse-icon-picture-image_7822354_9: -5534682955119867134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
