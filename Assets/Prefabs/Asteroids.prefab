@@ -57,6 +57,8 @@ SpriteRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -78,6 +80,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 1041543897
   m_SortingLayer: 4
   m_SortingOrder: 0
@@ -134,8 +137,8 @@ MonoBehaviour:
   _speed: 2
   _explosion: {fileID: 4289459548678306265, guid: 000f476bf86eea149bbe6597d7cbb137, type: 3}
   _maxHealth: 5
-  _curveAmount: 1
-  _curveSpeed: 0.1
+  _curveAmount: 10
+  _curveSpeed: 10
 --- !u!82 &9175875907368232058
 AudioSource:
   m_ObjectHideFlags: 0
@@ -146,7 +149,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 786803820469a1d469c1e00117e46322, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 786803820469a1d469c1e00117e46322, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1

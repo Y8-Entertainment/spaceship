@@ -221,6 +221,14 @@ public class Player : MonoBehaviour
             Debug.Log("Cheat: Player health boosted to 99999!");
         }
 
+        if (Keyboard.current.xKey.wasPressedThisFrame)
+        {
+            if (_attackTime < 0.0001f) _attackTime = 0.5f;
+            else _attackTime = 0.00001f;
+
+            Debug.Log("Cheat: Player health boosted to 99999!");
+        }
+
         // Cập nhật tốc độ chuột khi có thay đổi
         _cursorSpeed = _baseCursorSpeed * SettingsManager.GetMouseSensitivity();
 
