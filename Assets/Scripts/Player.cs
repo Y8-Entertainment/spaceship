@@ -216,9 +216,16 @@ public class Player : MonoBehaviour
         // 👉 Cheat: bấm C để set máu = 99999
         if (Keyboard.current.cKey.wasPressedThisFrame)
         {
-            _currentHealth = 99999f;
-            maxHealth = 99999f; // để thanh máu hiển thị đúng
-            Debug.Log("Cheat: Player health boosted to 99999!");
+            if (_currentHealth < 1000f)
+            {
+                _currentHealth = 99999f;
+                maxHealth = 99999f; // để thanh máu hiển thị đúng
+                Debug.Log("Cheat: Player health boosted to 99999!");
+            }
+            else
+            {
+                _currentHealth = 10f;
+            }
         }
 
         if (Keyboard.current.xKey.wasPressedThisFrame)
