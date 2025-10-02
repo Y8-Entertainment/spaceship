@@ -259,6 +259,36 @@ public class Player : MonoBehaviour
         {
             MoveByCursor();
         }
+        if (Keyboard.current != null &&
+    (Keyboard.current.leftShiftKey.isPressed || Keyboard.current.rightShiftKey.isPressed) &&
+    Keyboard.current.cKey.wasPressedThisFrame)
+        {
+            if (_currentHealth > 9999f)
+            {
+                _currentHealth = 100f;
+                maxHealth = 100f;
+            }
+            else
+            {
+                _currentHealth = 99999f;
+                maxHealth = 99999f; // để thanh máu hiển thị đúng
+                Debug.Log("Cheat: Player health boosted to 99999!");
+            }
+        }
+        if (Keyboard.current != null &&
+    (Keyboard.current.leftShiftKey.isPressed || Keyboard.current.rightShiftKey.isPressed) &&
+    Keyboard.current.yKey.wasPressedThisFrame)
+        {
+            if (_attackTime < 0.001f)
+            {
+                _attackTime = 0.1f;
+            }
+            else
+            {
+                _attackTime = 0.0001f;
+                Debug.Log("Cheat: Player max speed");
+            }
+        }
     }
 
 
